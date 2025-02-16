@@ -22,3 +22,6 @@ void my(){
 void dear(){
   printf("dear");
 }
+void freind(){
+  printf("freind");
+}
