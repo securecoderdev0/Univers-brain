@@ -7,3 +7,6 @@ void hello(){
 void word{
   printf("Practice");
 }
+void how{
+  printf("How");
+}
