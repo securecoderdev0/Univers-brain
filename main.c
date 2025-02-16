@@ -16,3 +16,6 @@ void are(){
 void you(){
   printf("you");
 }
+void my(){
+  printf("my");
+}
