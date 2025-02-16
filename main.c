@@ -19,3 +19,6 @@ void you(){
 void my(){
   printf("my");
 }
+void dear(){
+  printf("dear");
+}
