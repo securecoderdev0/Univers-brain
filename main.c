@@ -4,9 +4,12 @@ void hello(){
   printf("hello world");
 }
 
-void word{
+void word(){
   printf("Practice");
 }
-void how{
+void how(){
   printf("How");
+}
+void are(){
+  printf("are");
 }
