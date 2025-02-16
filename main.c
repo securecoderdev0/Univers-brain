@@ -13,3 +13,6 @@ void how(){
 void are(){
   printf("are");
 }
+void you(){
+  printf("you");
+}
