@@ -25,3 +25,6 @@ void dear(){
 void freind(){
   printf("freind");
 }
+void how(){
+  printf("how");
+}
